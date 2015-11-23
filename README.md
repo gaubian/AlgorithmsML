@@ -1,78 +1,78 @@
 # AlgorithmsML
 Implementation of various Algorithms in OCaml.
 
-Algorithms to be implemented:
+## Algorithms to be implemented:
 
-Strings:
+### Strings:
 
-KMP
-Rabin-Karp 2D
-AC Automaton
-Z-algorithm
-Hash function for string
+* KMP
+* Rabin-Karp 2D
+* AC Automaton
+* Z-algorithm
+* Hash function for string
 
-Optimization:
+### Optimization:
 
-Sparse Max-flow
-Min-cost max-flow
-Push-relabel max-flow
-Min-cost matching
-Max bipartite matching
-Stable matchings
-Global Min-cut
+* Sparse Max-flow
+* Min-cost max-flow
+* Push-relabel max-flow
+* Min-cost matching
+* Max bipartite matching
+* Stable matchings
+* Global Min-cut
 
-Geometry:
+### Geometry:
 
-Convex Hull
-Miscellaneous
-Half-plane intersection
-Closest Pair
-Delaunay Triangulation
+* Convex Hull
+* Miscellaneous
+* Half-plane intersection
+* Closest Pair
+* Delaunay Triangulation
 
-Numerical Algorithms:
+### Numerical Algorithms:
 
-Number theoretic algorithm
-Discrete Logarithm
-Euler's function
-Systems of linear equations, matrix inverse, determinant
-Reduced row echelon form, matrix rank
-Fast Fourier Transform
-Linear Programming
-Binomal coefficient
-Sieve of Erathostenes
-Prime number
+* Number theoretic algorithm
+* Discrete Logarithm
+* Euler's function
+* Systems of linear equations, matrix inverse, determinant
+* Reduced row echelon form, matrix rank
+* Fast Fourier Transform
+* Linear Programming
+* Binomal coefficient
+* Sieve of Erathostenes
+* Prime number
 
-Graphs:
+### Graphs:
 
-Dijkstra's algorithm
-Bellman-Ford
-MST
-Strongly connected components
-DFS
-BFS
-Toplogical Sort
-Eulerian Circuit
-Test Bipartite Graph
-Cut vertex/Bridge
-Biconnected Component
-Exact Cover
-Lowest Common Ancestor
+* Dijkstra's algorithm
+* Bellman-Ford
+* MST
+* Strongly connected components
+* DFS
+* BFS
+* Topological Sort
+* Eulerian Circuit
+* Test Bipartite Graph
+* Cut vertex/Bridge
+* Biconnected Component
+* Exact Cover
+* Lowest Common Ancestor
 
-Data Structures:
+### Data Structures:
 
-Suffix Arrays
-Binary Indexed Tree
-Union-Find
-KD-tree
-Segment Tree
-Treap
-Bits Sets
-Trie
-Rank Tree
+* Suffix Arrays
+* Binary Indexed Tree
+* Union-Find
+* KD-tree
+* Segment Tree
+* Treap
+* Bits Sets
+* Trie
+* Rank Tree
 
-Miscellaneous:
+### Miscellaneous:
 
-Longest Increasing Subsequence
-Maximum Rectangle in a Matrix
-Dichotomy
-2-SAT
+* Longest Increasing Subsequence
+* Maximum Rectangle in a Matrix
+* Dichotomy
+* 2-SAT
